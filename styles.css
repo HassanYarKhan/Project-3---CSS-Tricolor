@@ -1,0 +1,32 @@
+#orng{
+    background-color: orange;
+    height: 33vh;
+    width : 100%;
+    margin: 0;
+    padding: 0;
+}
+#whte{
+    background-color: white;
+    height: 33vh;
+    width : 100%;
+    margin: 0;
+    padding: 0;
+   
+}
+img{
+    position: absolute;
+    height: 20%;
+    align-items: center;
+    top: 40%;
+    left: 42%;
+    margin: 0;
+    padding: 0;
+}
+#grn{
+    background-color: green;
+    height: 33vh;
+    width : 100%;
+    margin: 0;
+    padding: 0;
+}
+
